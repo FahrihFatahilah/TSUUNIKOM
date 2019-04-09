@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSU</string>
+    <string name="Barprogrammer">Programmer</string>
+    <string name="Bardesigner">Designer</string>
+    <string name="Bardatabase">Database</string>
+    <string name="Barsys">Sys Admin</string>
+    <string name="Barcloud">Cloud Computing</string>
+    <string name="Barwebsecur">Web Security</string>
+</resources>
